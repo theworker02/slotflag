@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/slotflag",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Slot color flag values and contrast-safe presentation helpers.",
+  "bin": {
+    "slotflag": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/slotflag.git"
+  },
+  "homepage": "https://theworker02.github.io/slotflag/",
+  "keywords": [
+    "slot",
+    "flag",
+    "color",
+    "cli",
+    "toolkit"
+  ]
+}
